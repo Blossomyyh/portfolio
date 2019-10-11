@@ -64,7 +64,7 @@ Demonstrating design projects for web and/or mobile platforms.
   -  Implementation
 
     - PRESENTATION  https://prezi.com/view/ycV5IQHV3HwQD6Dfbeuv
-    - DEMO  `./Mest-demo.mp4` or [GoogleDrive](https://drive.google.com/file/d/1AfqG6D-o5UkfBPb9Rmh7v3TJXSz2ZZv6/view?usp=sharing)
+    - DEMO  `./Mest-demo.mp4` or  [GoogleDrive](https://drive.google.com/file/d/1AfqG6D-o5UkfBPb9Rmh7v3TJXSz2ZZv6/view?usp=sharing)  or  [Github](https://github.com/Blossomyyh/memo-list.git)
     - Pull View
     - ARKit
 
