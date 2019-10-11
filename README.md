@@ -64,7 +64,7 @@ Demonstrating design projects for web and/or mobile platforms.
   -  Implementation
 
     - PRESENTATION  https://prezi.com/view/ycV5IQHV3HwQD6Dfbeuv
-    - DEMO  `./Mest-demo.mp4`
+    - DEMO  `./Mest-demo.mp4` or [GoogleDrive](https://drive.google.com/file/d/1AfqG6D-o5UkfBPb9Rmh7v3TJXSz2ZZv6/view?usp=sharing)
     - Pull View
     - ARKit
 
@@ -85,7 +85,7 @@ Demonstrating design projects for web and/or mobile platforms.
 
   - Implemetation 
 
-    - DEMO `./tsubasa-demo.mp4`
+    - DEMO `./tsubasa-demo.mp4` or [GoogleDrive](https://drive.google.com/file/d/1UUo7E0S2Qwd5g5fcAD-Vp-hq_8qjEjRd/view?usp=sharing)
 
     - CODE  <https://github.com/Blossomyyh/Tsubasa>
 
