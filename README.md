@@ -91,7 +91,7 @@ Demonstrating design projects for web and/or mobile platforms.
 
     - Vue.js  framework
 
-    - eagle.jss
+    - eagle.js
 
       ​
 
