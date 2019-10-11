@@ -1,4 +1,4 @@
-# portfolio
+# PORTFOLIO
 
 Demonstrating design projects for web and/or mobile platforms.
 
@@ -12,7 +12,9 @@ Demonstrating design projects for web and/or mobile platforms.
 
 ​	blossomyyh@gmail.com
 
-​	[github.com/blossomyyh/portfolio]()
+​	Link: [github.com/blossomyyh/portfolio](https://github.com/blossomyyh/portfolio)
+
+​	Blog: [blossomyyh.github.io](https://blossomyyh.github.io)
 
 ​	Brooklyn, NY
 
